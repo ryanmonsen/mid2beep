@@ -1,6 +1,6 @@
 from Beep import *
 
-hahaPaarth = [
+Fanfare = [
     [tone["G4"],duration["eighth"]],
     [tone["G4"],duration["quarter"]],  
     [tone["G4"],duration["quarter"]],
@@ -11,4 +11,4 @@ hahaPaarth = [
     [tone["C5"],duration["quarter"]]
 ]
 
-play(hahaPaarth)
+play(Fanfare)
